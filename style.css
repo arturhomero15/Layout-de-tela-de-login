@@ -1,12 +1,23 @@
 body{
-    background-color:rgb(129, 179, 255);
+    background-color:rgb(90, 100, 116);
+}
+
+.login{
+
+    color: white;
+    display: block;
+    font-size: 1.5vw;
+    padding: 13vw;
+    text-align: center;
+}
+
+.p{
+    text-align: left;
 }
 
 .imagem{
     display:block;
-    text-align:center;
-    margin-top: 200px;
-    margin-left:595px;
+    text-align: center;
     padding:center;
     border-radius: 50%;
     width:150px;
@@ -14,27 +25,24 @@ body{
 }
 
 .nome{
+    color:white;
     text-align:center;
     height:50px;
-    margin-top: 30px;
 }
 
 .senha{
+    color:white;    
     text-align:center;
-    margin-top: 10px;
 }
 
 button{
     cursor:pointer;
     height:40px;
     width: 70px;
-    margin-left: 640px;
-    margin-top: 30px;
 }
 
 .lembrarsenha{
+    color:white;
     text-align:left;
-    margin-left: 70px;
-    margin-top: 10px;
     text-align:center;
 }
